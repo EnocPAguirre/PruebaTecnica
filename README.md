@@ -1,4 +1,4 @@
-#Prueba Técnica
+# Prueba Técnica
 
 Resolucion de los ejercicios para la prueba tecnica para el puesto de FullStack Sr
 
