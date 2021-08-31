@@ -8,7 +8,7 @@ Para instalar las dependencias solo hace hace falta correr el siguiente comando
 ```bash
 npm install
 ```
-##Correr pruebas
+## Correr pruebas
 Para correr las pruebas solo se necesita correr el siguiente comando
 ```bash
 npm run test
